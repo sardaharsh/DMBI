@@ -1,0 +1,9 @@
+age,name,salary,gender
+25,alice,50000,F
+30,bob,,M
+22,cindy,45000,F
+,david,70000,
+28,emily,55000,F
+33,frank,65000,
+26,grace,,F
+,henry,75000,M
